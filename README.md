@@ -81,3 +81,18 @@
 	<li>Improved: documentation inside the template</li>
 	<li>Improved: nav and footer looks better in low resolutions</li>
 </ul>
+
+Installation
+This theme was built using many technologies as possible, like NPM and Bower.
+
+Downloading the plugins
+Open the console in the app folder, and type bower install. Wait a few minutes and all the plugins will be downloaded.
+
+Downloading Bower dependencies
+After that, we must install the npm dependencies typing npm install. Wait until the download finish to continue.
+
+Downloading NPM dependencies
+Processing SASS
+All done, let's generate the CSS. Just type npm run gulp in the console. After every little change in any .scss file you'll have to do this step again.
+
+Generating CSS
