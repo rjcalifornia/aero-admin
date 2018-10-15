@@ -88,12 +88,17 @@ This theme was built using many technologies as possible, like NPM and Bower.
 <p><strong>
 Downloading the plugins
 	</strong></p>
-Open the console in the app folder, and type bower install. Wait a few minutes and all the plugins will be downloaded.
+	
 <p><strong>
 Downloading Bower dependencies</strong></p>
-After that, we must install the npm dependencies typing npm install. Wait until the download finish to continue.
+Open the console in the app folder, and type bower install. Wait a few minutes and all the plugins will be downloaded.
+
 <p><strong>
 Downloading NPM dependencies</strong></p>
+After that, we must install the npm dependencies typing npm install. Wait until the download finish to continue.
+
+<p><strong>
+CSS</strong></p>
 Processing SASS
 All done, let's generate the CSS. Just type npm run gulp in the console. After every little change in any .scss file you'll have to do this step again.
 
