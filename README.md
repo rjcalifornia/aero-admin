@@ -82,7 +82,8 @@
 	<li>Improved: nav and footer looks better in low resolutions</li>
 </ul>
 
-Installation
+<h1 align="center">Installation of Aero Admin</h1>
+
 This theme was built using many technologies as possible, like NPM and Bower.
 
 Downloading the plugins
